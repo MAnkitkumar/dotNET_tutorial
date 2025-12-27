@@ -1,0 +1,14 @@
+C:\Users\Ankit kumar\Desktop\myConsoleApp\bin\Debug\net10.0\myConsoleApp.exe
+C:\Users\Ankit kumar\Desktop\myConsoleApp\bin\Debug\net10.0\myConsoleApp.deps.json
+C:\Users\Ankit kumar\Desktop\myConsoleApp\bin\Debug\net10.0\myConsoleApp.runtimeconfig.json
+C:\Users\Ankit kumar\Desktop\myConsoleApp\bin\Debug\net10.0\myConsoleApp.dll
+C:\Users\Ankit kumar\Desktop\myConsoleApp\bin\Debug\net10.0\myConsoleApp.pdb
+C:\Users\Ankit kumar\Desktop\myConsoleApp\obj\Debug\net10.0\myConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankit kumar\Desktop\myConsoleApp\obj\Debug\net10.0\myConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Ankit kumar\Desktop\myConsoleApp\obj\Debug\net10.0\myConsoleApp.AssemblyInfo.cs
+C:\Users\Ankit kumar\Desktop\myConsoleApp\obj\Debug\net10.0\myConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Ankit kumar\Desktop\myConsoleApp\obj\Debug\net10.0\myConsoleApp.dll
+C:\Users\Ankit kumar\Desktop\myConsoleApp\obj\Debug\net10.0\refint\myConsoleApp.dll
+C:\Users\Ankit kumar\Desktop\myConsoleApp\obj\Debug\net10.0\myConsoleApp.pdb
+C:\Users\Ankit kumar\Desktop\myConsoleApp\obj\Debug\net10.0\myConsoleApp.genruntimeconfig.cache
+C:\Users\Ankit kumar\Desktop\myConsoleApp\obj\Debug\net10.0\ref\myConsoleApp.dll
